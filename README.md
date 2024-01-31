@@ -1,27 +1,14 @@
-# LaboivPp
+<h1 align="center">Primer Parcial Laboratorio IV</h1>
+<h3 align="center">Tecnologías utilizadas</h3>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<div align="center" style="text-align:center;">
+    <img src="https://img.shields.io/badge/angular-dd0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=dd0031" alt="Angular">
+    <img src="https://img.shields.io/badge/firebase-ffcc30?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffcc30" alt="Firebase">
+    <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </div>
+  <div align="center" style="text-align:center;">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white" alt="Visual Studio">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git">
+  </div>
